@@ -1,0 +1,6 @@
+I will be using Foursquare API's data to do my analysis.
+Firstly, I would be collecting data for the neighborhood of Toronto through web scraping. 
+Secondly, I will collect the data to know what all venues or venue categories are present in each of the neighborhood.
+Third, I will list out most common visited venues in the given neighborhood using Foursquare API.
+Fourth, I will try to visualize through graph that which area is suitable for which type of bussiness. 
+Lastly I will cluster the data most suitable for different types of bussiness people may opt for the particular place. 
